@@ -1,1 +1,1 @@
-# Games-play
+# Exercising Django
